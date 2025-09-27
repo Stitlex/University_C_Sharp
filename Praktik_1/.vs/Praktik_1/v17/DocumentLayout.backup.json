@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\murko\\source\\repos\\Praktik_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D06223C5-1164-A98E-7A4D-A8B3645E86E9}|Task5\\Task5.csproj|c:\\users\\murko\\source\\repos\\praktik_1\\task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D06223C5-1164-A98E-7A4D-A8B3645E86E9}|Task5\\Task5.csproj|solutionrelative:task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5FDBC83-34D7-445C-9AA0-07959D8C19F2}|Task1\\Task1.csproj|c:\\users\\murko\\source\\repos\\praktik_1\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5FDBC83-34D7-445C-9AA0-07959D8C19F2}|Task1\\Task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44656E01-CD2D-C68B-B81C-1D2A76926419}|Task4\\Task4.csproj|c:\\users\\murko\\source\\repos\\praktik_1\\task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44656E01-CD2D-C68B-B81C-1D2A76926419}|Task4\\Task4.csproj|solutionrelative:task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A36E21AC-5E27-824E-ADCA-0E00BD5C010A}|Task3\\Task3.csproj|c:\\users\\murko\\source\\repos\\praktik_1\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A36E21AC-5E27-824E-ADCA-0E00BD5C010A}|Task3\\Task3.csproj|solutionrelative:task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09423724-F80F-D652-9B06-B41C54B56293}|Task2\\Task2.csproj|c:\\users\\murko\\source\\repos\\praktik_1\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09423724-F80F-D652-9B06-B41C54B56293}|Task2\\Task2.csproj|solutionrelative:task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E15263E-C9F9-87E6-B3BD-5E716FC1CDEF}|Practical1Test\\Practical1Test.csproj|c:\\users\\murko\\source\\repos\\praktik_1\\practical1test\\task1_evennumber_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E15263E-C9F9-87E6-B3BD-5E716FC1CDEF}|Practical1Test\\Practical1Test.csproj|solutionrelative:practical1test\\task1_evennumber_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E15263E-C9F9-87E6-B3BD-5E716FC1CDEF}|Practical1Test\\Practical1Test.csproj|c:\\users\\murko\\source\\repos\\praktik_1\\practical1test\\task2_arraycalculations_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E15263E-C9F9-87E6-B3BD-5E716FC1CDEF}|Practical1Test\\Practical1Test.csproj|solutionrelative:practical1test\\task2_arraycalculations_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E15263E-C9F9-87E6-B3BD-5E716FC1CDEF}|Practical1Test\\Practical1Test.csproj|c:\\users\\murko\\source\\repos\\praktik_1\\practical1test\\task3_ageclassification_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E15263E-C9F9-87E6-B3BD-5E716FC1CDEF}|Practical1Test\\Practical1Test.csproj|solutionrelative:practical1test\\task3_ageclassification_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E15263E-C9F9-87E6-B3BD-5E716FC1CDEF}|Practical1Test\\Practical1Test.csproj|c:\\users\\murko\\source\\repos\\praktik_1\\practical1test\\task4_triangle_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E15263E-C9F9-87E6-B3BD-5E716FC1CDEF}|Practical1Test\\Practical1Test.csproj|solutionrelative:practical1test\\task4_triangle_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E15263E-C9F9-87E6-B3BD-5E716FC1CDEF}|Practical1Test\\Practical1Test.csproj|c:\\users\\murko\\source\\repos\\praktik_1\\practical1test\\task5_studentgroups_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E15263E-C9F9-87E6-B3BD-5E716FC1CDEF}|Practical1Test\\Practical1Test.csproj|solutionrelative:practical1test\\task5_studentgroups_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\murko\\source\\repos\\Praktik_1\\Task1\\Program.cs",
+              "RelativeDocumentMoniker": "Task1\\Program.cs",
+              "ToolTip": "C:\\Users\\murko\\source\\repos\\Praktik_1\\Task1\\Program.cs",
+              "RelativeToolTip": "Task1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T20:39:20.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Task1_EvenNumber_Tests.cs",
+              "DocumentMoniker": "C:\\Users\\murko\\source\\repos\\Praktik_1\\Practical1Test\\Task1_EvenNumber_Tests.cs",
+              "RelativeDocumentMoniker": "Practical1Test\\Task1_EvenNumber_Tests.cs",
+              "ToolTip": "C:\\Users\\murko\\source\\repos\\Praktik_1\\Practical1Test\\Task1_EvenNumber_Tests.cs",
+              "RelativeToolTip": "Practical1Test\\Task1_EvenNumber_Tests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T20:39:19.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\murko\\source\\repos\\Praktik_1\\Task2\\Program.cs",
+              "RelativeDocumentMoniker": "Task2\\Program.cs",
+              "ToolTip": "C:\\Users\\murko\\source\\repos\\Praktik_1\\Task2\\Program.cs",
+              "RelativeToolTip": "Task2\\Program.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T20:39:17.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Task2_ArrayCalculations_Tests.cs",
+              "DocumentMoniker": "C:\\Users\\murko\\source\\repos\\Praktik_1\\Practical1Test\\Task2_ArrayCalculations_Tests.cs",
+              "RelativeDocumentMoniker": "Practical1Test\\Task2_ArrayCalculations_Tests.cs",
+              "ToolTip": "C:\\Users\\murko\\source\\repos\\Praktik_1\\Practical1Test\\Task2_ArrayCalculations_Tests.cs",
+              "RelativeToolTip": "Practical1Test\\Task2_ArrayCalculations_Tests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T20:39:15.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\murko\\source\\repos\\Praktik_1\\Task3\\Program.cs",
+              "RelativeDocumentMoniker": "Task3\\Program.cs",
+              "ToolTip": "C:\\Users\\murko\\source\\repos\\Praktik_1\\Task3\\Program.cs",
+              "RelativeToolTip": "Task3\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T20:39:12.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Task3_AgeClassification_Tests.cs",
+              "DocumentMoniker": "C:\\Users\\murko\\source\\repos\\Praktik_1\\Practical1Test\\Task3_AgeClassification_Tests.cs",
+              "RelativeDocumentMoniker": "Practical1Test\\Task3_AgeClassification_Tests.cs",
+              "ToolTip": "C:\\Users\\murko\\source\\repos\\Praktik_1\\Practical1Test\\Task3_AgeClassification_Tests.cs",
+              "RelativeToolTip": "Practical1Test\\Task3_AgeClassification_Tests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T20:39:11.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\murko\\source\\repos\\Praktik_1\\Task4\\Program.cs",
+              "RelativeDocumentMoniker": "Task4\\Program.cs",
+              "ToolTip": "C:\\Users\\murko\\source\\repos\\Praktik_1\\Task4\\Program.cs",
+              "RelativeToolTip": "Task4\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T20:39:09.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Task4_Triangle_Tests.cs",
+              "DocumentMoniker": "C:\\Users\\murko\\source\\repos\\Praktik_1\\Practical1Test\\Task4_Triangle_Tests.cs",
+              "RelativeDocumentMoniker": "Practical1Test\\Task4_Triangle_Tests.cs",
+              "ToolTip": "C:\\Users\\murko\\source\\repos\\Praktik_1\\Practical1Test\\Task4_Triangle_Tests.cs",
+              "RelativeToolTip": "Practical1Test\\Task4_Triangle_Tests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T20:39:06.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\murko\\source\\repos\\Praktik_1\\Task5\\Program.cs",
+              "RelativeDocumentMoniker": "Task5\\Program.cs",
+              "ToolTip": "C:\\Users\\murko\\source\\repos\\Praktik_1\\Task5\\Program.cs",
+              "RelativeToolTip": "Task5\\Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T20:39:02.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Task5_StudentGroups_Tests.cs",
+              "DocumentMoniker": "C:\\Users\\murko\\source\\repos\\Praktik_1\\Practical1Test\\Task5_StudentGroups_Tests.cs",
+              "RelativeDocumentMoniker": "Practical1Test\\Task5_StudentGroups_Tests.cs",
+              "ToolTip": "C:\\Users\\murko\\source\\repos\\Praktik_1\\Practical1Test\\Task5_StudentGroups_Tests.cs",
+              "RelativeToolTip": "Practical1Test\\Task5_StudentGroups_Tests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T20:39:01.383Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
