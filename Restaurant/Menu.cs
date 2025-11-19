@@ -28,7 +28,7 @@ namespace Restaurant
             Console.WriteLine("-------------- МЕНЮ РЕСТОРАНУ --------------");
             foreach (var item in Items)
             {
-                item.Print_Info();
+                item.PrintInfo();
             }
             Console.WriteLine("--------------------------------------------");
         }

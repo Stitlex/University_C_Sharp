@@ -19,7 +19,7 @@ namespace Restaurant
         }
 
 
-        public override void Print_Info()
+        public override void PrintInfo()
         {
             Console.WriteLine($"Напій \"{Name}\" ({Volume:f2} мл, {(IsAlkohol ? "алкогольний" : "безалкогольний")}) - {Price}грн");
         }

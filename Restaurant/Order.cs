@@ -56,7 +56,7 @@ namespace Restaurant
             Console.WriteLine($"--- Статус замовлення ID: {Id} оновлено на {Status} ---");
         }
 
-        public void Print_Order_Info()
+        public void PrintOrderInfo()
         {
             Console.WriteLine($"\nId: {Id} | Стіл: {Table} | Статус \"{Status}\" | Ім'я клієнта: \"{Name}\"");
             if ( Items.Count > 0 )
@@ -65,7 +65,7 @@ namespace Restaurant
                 foreach (var item in Items)
                 {
                     Console.Write(" -");
-                    item.Print_Info();
+                    item.PrintInfo();
                 }
                 Console.WriteLine($"Загальна вартість: {CalculateTotal()}грн");
             }

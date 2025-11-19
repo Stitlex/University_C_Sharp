@@ -17,6 +17,6 @@ namespace Restaurant
             Price = price;
         }
 
-        public abstract void Print_Info();
+        public abstract void PrintInfo();
     }
 }

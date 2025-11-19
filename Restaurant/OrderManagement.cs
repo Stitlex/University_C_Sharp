@@ -30,7 +30,7 @@ namespace Restaurant
             Console.WriteLine("----------- ВСІ АКТИВНІ ЗАМОВЛЕННЯ РЕСТОРАНУ -----------");
             foreach (var order in Orders)
             {
-                order.Print_Order_Info();
+                order.PrintOrderInfo();
             }
             Console.WriteLine("--------------------------------------------------------");
         }

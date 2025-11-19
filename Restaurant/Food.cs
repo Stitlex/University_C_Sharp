@@ -19,7 +19,7 @@ namespace Restaurant
             IsVegan = isVegan;
         }
 
-        public override void Print_Info()
+        public override void PrintInfo()
         {
             Console.WriteLine($"Старава \"{Name}\" ({Weight:f2} г, {(IsVegan ? "веганська" : "звичайна")}) - {Price}грн");
         }
